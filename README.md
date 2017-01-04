@@ -1,6 +1,6 @@
 # Python skeleton
-This skeleton is based on **Learn Python the hard way** [Exercise 46](https://learnpythonthehardway.org/book/ex46.html) but it should be compatible with
-python2 and python3
+This skeleton is based on **Learn Python the hard way** [Exercise 46](https://learnpythonthehardway.org/book/ex46.html) and **Python Paste** _basic_package_
+but it should be compatible with python2 and python3
 
 ## Using the Skeleton
 
